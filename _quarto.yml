@@ -1,5 +1,6 @@
 project:
   type: book
+  output-dir: docs
 
 book:
   title: "Aprimorando a comunicação dos resultados com Storytelling"
